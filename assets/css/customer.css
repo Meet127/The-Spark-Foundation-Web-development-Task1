@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #4b96f7;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #fff!important;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    color: #5f6368!important;
+}
+
+.nav-link{
+    color: #5f6368!important;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info {
+    padding: 1rem 1.2rem;
+    background-color: white !important;
+    color: #000 !important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+    border-radius: 11px;
+}
+
+.btn-info:hover{
+    background-color: #4b4bd3 !important;
+    color: white !important;
+}
